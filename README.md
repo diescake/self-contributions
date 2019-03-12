@@ -14,10 +14,10 @@ Powered by [pixela](https://pixe.la/).
 
 ## Reading technological books
 
-T.B.D.  
+![reading-tech-books](https://pixe.la/v1/users/diescake/graphs/read-tech-books)
 Powered by [pixela](https://pixe.la/).
 
 ## Cooking somethings
 
-T.B.D.  
+![cooking](https://pixe.la/v1/users/diescake/graphs/cooking)
 Powered by [pixela](https://pixe.la/).
