@@ -4,7 +4,7 @@ Recording contributions of me, by me, for me 😁
 
 ## Programming
 
-![proguraming](https://grass-graph.moshimo.works/images/diescake.png?width=3000)  
+[![programming](https://grass-graph.moshimo.works/images/diescake.png?width=3000)](https://github.com/diescake)  
 Powered by [Grass-Graph](https://grass-graph.moshimo.works/).
 
 ## Studying English
