@@ -2,7 +2,7 @@
 
 Recording contributions of me, by me, for me 😁  
 
-## Programming
+## GitHub
 
 [![programming](https://grass-graph.moshimo.works/images/diescake.png?width=3000)](https://github.com/diescake)  
 Powered by [Grass-Graph](https://grass-graph.moshimo.works/).
